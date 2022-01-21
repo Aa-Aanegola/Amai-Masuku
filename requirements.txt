@@ -1,0 +1,6 @@
+argparse
+imutils
+numpy
+opencv-python
+scipy
+tqdm
